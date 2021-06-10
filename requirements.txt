@@ -1,2 +1,2 @@
-django==1.11.1
+django==2.2.24
 redis==3.4.1
